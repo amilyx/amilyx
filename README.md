@@ -12,4 +12,4 @@
 ![Alight-motion](https://img.icons8.ru/?size=100&id=ax8badYAPxJx&format=png&color=000000)
 
 
-<img width="640" height="264" alt="image" src="https://github.com/user-attachments/assets/778e3c3b-6a3f-43f7-95be-609cff4f19dd" />
+<img src="https://github.com/amilyx/amilyx/blob/main/caitvi.gif"/>
