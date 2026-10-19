@@ -5,6 +5,9 @@
 
 <p> ⚙️Активно изучаю:</p>
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![HTML5](https://img.icons8.ru/?size=100&id=20909&format=png&color=000000)
+![CSS3](https://img.icons8.ru/?size=100&id=7gdY5qNXaKC0&format=png&color=000000)
+![Phhotoshop](https://img.icons8.ru/?size=100&id=13677&format=png&color=000000)
+![Python](https://img.icons8.ru/?size=100&id=13441&format=png&color=000000)
+![Alight-motion](https://img.icons8.ru/?size=100&id=ax8badYAPxJx&format=png&color=000000)
  
